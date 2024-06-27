@@ -1,0 +1,19 @@
+{
+    "name": "craigfowler/sage-resources",
+    "description": "sage resources",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Craig Fowler",
+            "email": "craig@howler.studio"
+        }
+    ],
+    "require": {
+        "log1x/poet": "^2.1",
+        "log1x/navi": "^3.0",
+        "log1x/sage-directives": "^2.0",
+        "log1x/acf-composer": "^3.0",
+        "roots/acorn": "^4.3"
+    }
+}
